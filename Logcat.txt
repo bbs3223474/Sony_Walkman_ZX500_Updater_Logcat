@@ -1,0 +1,161 @@
+03-20 01:52:10.414  7354  7354 V WMU_Activity: onApplyUpdate Click
+03-20 01:52:10.415  7354  7354 I WMU_Activity: BaT stat: ChSt:2 ConSt:2
+03-20 01:52:10.419  7354  7354 I WMU_Activity: IsCharging: true BattLvl:99
+03-20 01:52:10.419  7354  7354 V WMU_UpdateMgr: applyUpdate Started
+03-20 01:52:10.419  7354  7354 D WMU_UpdateMgr: setUpdaterState invoked newState=3
+03-20 01:52:10.419  7354  7354 I WMU_Activity: UpdaterStateChange state=DOWNLOAD/3
+03-20 01:52:10.420  3238  4066 I ActivityManager: Activity requesting to dismiss Keyguard: ActivityRecord{de08497 u0 com.sony.walkman.systemupdater/.ui.MainActivity t532}
+03-20 01:52:10.425  7354  7367 I n.systemupdate: Waiting for a blocking GC ProfileSaver
+03-20 01:52:10.430  7354  7354 D WMU_UpdateMgr: NonStream Update Started
+03-20 01:52:10.430  7354  7354 D WMU_UpdateMgr: setUpdaterState invoked newState=4
+03-20 01:52:10.430  7354  7354 I WMU_Activity: UpdaterStateChange state=RUNNING/4
+03-20 01:52:10.432  7354  7354 D WMU_Activity: Update lock already acquired.
+03-20 01:52:10.436  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.436  7386  7535 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.436  7386  7496 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.437  7386  7500 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.437  7386  7495 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.437  7386  7487 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.457  7354  7362 W System  : A resource failed to call close.
+03-20 01:52:10.457  7354  7362 W System  : A resource failed to call close.
+03-20 01:52:10.458  7354  7367 I n.systemupdate: WaitForGcToComplete blocked ProfileSaver on HeapTrim for 32.646ms
+03-20 01:52:10.475  7354  7551 I android_os_HwBinder: HwBinder: Starting thread pool for default::izm.android.properties@1.0::IProperties
+03-20 01:52:10.482  7354  7551 V WMU_dec : sum:C78BAD067B4485D0691412C898C4FB67D1AA76184B92B7C41E0DF508
+03-20 01:52:10.484  7386  7501 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.484  7386  7490 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.484  7386  7497 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.484  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.585  7386  7495 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.585  7386  7487 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.585  7386  7533 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.585  7386  7501 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.586  7386  7490 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.586  7386  7497 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.586  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.705  7386  7495 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.705  7386  7487 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.705  7386  7533 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.705  7386  7501 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.705  7386  7490 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.705  7386  7497 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.706  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.706  7386  7496 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:10.706  7386  7535 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.351  7386  7533 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.352  7386  7501 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.352  7386  7490 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.352  7386  7497 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.352  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.352  7386  7496 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.353  7386  7535 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.406  7386  7501 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.406  7386  7490 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.407  7386  7497 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.407  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.407  7386  7496 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.407  7386  7535 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.407  7386  7500 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.407  7386  7495 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.448  7386  7501 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.448  7386  7490 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.448  7386  7497 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.448  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.448  7386  7496 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.448  7386  7535 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372035
+03-20 01:52:11.448  7386  7500 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.448  7386  7495 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:11.448  7386  7487 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:16.907  7386  7534 I ngs.android.po: Note: end time exceeds INT32_MAX: 9223372036
+03-20 01:52:20.343  7386  7396 W ngs.android.po: Suspending all threads took: 12.031ms
+03-20 01:52:25.318  7354  7364 I n.systemupdate: Background concurrent copying GC freed 83(32KB) AllocSpace objects, 20(3MB) LOS objects, 49% free, 2MB/5MB, paused 7.046ms total 24.328ms
+03-20 01:52:35.768  7354  7551 V WMU_dec : Last block!!
+03-20 01:52:35.769  7354  7551 V WMU_dec : New : C78BAD067B4485D0691412C898C4FB67D1AA76184B92B7C41E0DF508
+03-20 01:52:35.769  7354  7551 V WMU_dec : Old : C78BAD067B4485D0691412C898C4FB67D1AA76184B92B7C41E0DF508
+03-20 01:52:35.989  7354  7551 D WMU_UpdateMgr: updateEngineApplyPayload invoked with url file:///data/ota_package/NW_WM_FW.zip
+03-20 01:52:35.989  7354  7551 D WMU_UpdateMgr: updateEngineApplyPayload with prop: [FILE_HASH=7ZTFu6tioKA9maWbzNypNQJ2YAQuhllggZSrI8ZoH2g=, FILE_SIZE=893347410, METADATA_HASH=MtwtS6nZPI9+ArcyeGlfra9S7Q8bBlXbEh3IQISU7r0=, METADATA_SIZE=91919]
+03-20 01:52:36.001  3138  3138 I update_engine: [0320/015236.001123:INFO:update_attempter_android.cc(246)] Using this install plan:
+03-20 01:52:36.002  3138  3138 I update_engine: [0320/015236.002607:INFO:install_plan.cc(83)] InstallPlan: resume, version: , source_slot: B, target_slot: A, url: file:///data/ota_package/NW_WM_FW.zip, payload: (size: 893347410, metadata_size: 91919, metadata signature: , hash: ED94C5BBAB62A0A03D99A59BCCDCA935027660042E8659608194AB23C6681F68, payload type: unknown), hash_checks_mandatory: true, powerwash_required: false, switch_slot_on_reboot: true, run_post_install: true
+03-20 01:52:36.003  7354  7373 D WMU_UpdateMgr: onStatusUpdate invoked, status=2, progress=0.00
+03-20 01:52:36.004  7354  7373 I WMU_Activity: StatusUpdate - status=UPDATE_AVAILABLE/2
+03-20 01:52:36.004  3138  3138 I update_engine: [0320/015236.004530:INFO:update_attempter_android.cc(547)] Marking booted slot as good.
+03-20 01:52:36.000  2899  2899 W boot@1.0-servic: type=1400 audit(0.0:8731): avc: denied { search } for name="android" dev="sysfs" ino=2301 scontext=u:r:hal_bootctl_default:s0 tcontext=u:object_r:sysfs_dt_firmware_android:s0 tclass=dir permissive=0
+03-20 01:52:36.005  2899  2899 I /vendor/bin/hw/android.hardware.boot@1.0-service: [libfs_mgr]fs_mgr_read_fstab_dt(): failed to read fstab from dt
+03-20 01:52:36.008  3138  3138 I update_engine: [0320/015236.008912:INFO:metrics_utils.cc(344)] Payload Attempt Number = 1
+03-20 01:52:36.009  3138  3138 I update_engine: [0320/015236.009353:INFO:metrics_utils.cc(361)] Update Timestamp Start = 1/1/1970 0:07:31 GMT
+03-20 01:52:36.011  3138  3138 I update_engine: [0320/015236.011460:INFO:update_attempter_android.cc(562)] Scheduling an action processor start.
+03-20 01:52:36.011  3138  3138 I update_engine: [0320/015236.011697:INFO:action_processor.cc(46)] ActionProcessor: starting InstallPlanAction
+03-20 01:52:36.011  3138  3138 I update_engine: [0320/015236.011753:INFO:action_processor.cc(116)] ActionProcessor: finished InstallPlanAction with code ErrorCode::kSuccess
+03-20 01:52:36.011  3138  3138 I update_engine: [0320/015236.011790:INFO:action_processor.cc(143)] ActionProcessor: starting DownloadAction
+03-20 01:52:36.011  3138  3138 I update_engine: [0320/015236.011866:INFO:install_plan.cc(83)] InstallPlan: resume, version: , source_slot: B, target_slot: A, url: file:///data/ota_package/NW_WM_FW.zip, payload: (size: 893347410, metadata_size: 91919, metadata signature: , hash: ED94C5BBAB62A0A03D99A59BCCDCA935027660042E8659608194AB23C6681F68, payload type: unknown), hash_checks_mandatory: true, powerwash_required: false, switch_slot_on_reboot: true, run_post_install: true
+03-20 01:52:36.012  3138  3138 I update_engine: [0320/015236.011998:INFO:prefs.cc(122)] update-state-payload-index not present in /data/misc/update_engine/prefs
+03-20 01:52:36.012  3138  3138 I update_engine: [0320/015236.012038:INFO:download_action.cc(200)] Marking new slot as unbootable
+03-20 01:52:36.008  2899  2899 W boot@1.0-servic: type=1400 audit(0.0:8732): avc: denied { search } for name="android" dev="sysfs" ino=2301 scontext=u:r:hal_bootctl_default:s0 tcontext=u:object_r:sysfs_dt_firmware_android:s0 tclass=dir permissive=0
+03-20 01:52:36.012  2899  2899 I /vendor/bin/hw/android.hardware.boot@1.0-service: [libfs_mgr]fs_mgr_read_fstab_dt(): failed to read fstab from dt
+03-20 01:52:36.013  2899  2899 I /vendor/bin/hw/android.hardware.boot@1.0-service: [libfs_mgr]fs_mgr_read_fstab_dt(): failed to read fstab from dt
+03-20 01:52:36.017  3138  3138 I update_engine: [0320/015236.017131:INFO:multi_range_http_fetcher.cc(45)] starting first transfer
+03-20 01:52:36.017  3138  3138 I update_engine: [0320/015236.017262:INFO:multi_range_http_fetcher.cc(74)] starting transfer of range 6767+92183
+03-20 01:52:36.023  7354  7373 D WMU_UpdateMgr: onStatusUpdate invoked, status=3, progress=0.00
+03-20 01:52:36.024  7354  7373 I WMU_Activity: StatusUpdate - status=DOWNLOADING/3
+03-20 01:52:36.026  3138  3138 I update_engine: [0320/015236.026326:INFO:delta_performer.cc(210)] Completed 0/? operations, 16384/893347410 bytes downloaded (0%), overall progress 0%
+03-20 01:52:36.028  3138  3138 I update_engine: [0320/015236.028422:INFO:delta_performer.cc(470)] Manifest size in payload matches expected value from Omaha
+03-20 01:52:36.028  3138  3138 I update_engine: [0320/015236.028559:INFO:payload_metadata.cc(182)] Verifying metadata hash signature using public key: /etc/update_engine/update-payload-key.pub.pem
+03-20 01:52:36.028  3138  3138 I update_engine: [0320/015236.028753:INFO:payload_verifier.cc(93)] signature blob size = 264
+03-20 01:52:36.037  3138  3138 I update_engine: [0320/015236.037760:INFO:payload_verifier.cc(112)] Verified correct signature 1 out of 1 signatures.
+03-20 01:52:36.037  3138  3138 I update_engine: [0320/015236.037966:INFO:payload_metadata.cc(224)] Metadata hash signature matches value in Omaha response.
+03-20 01:52:36.043  3138  3138 I update_engine: [0320/015236.043633:INFO:delta_performer.cc(1405)] Detected a 'full' payload.
+03-20 01:52:36.063  3138  3138 I update_engine: [0320/015236.063527:INFO:delta_performer.cc(400)] PartitionInfo new dtbo sha256: BbLmc/M8DW4d+jE7IfvhN8xJoA7KkYWjGg/WMxvvfOM= size: 4194304
+03-20 01:52:36.063  3138  3138 I update_engine: [0320/015236.063687:INFO:delta_performer.cc(400)] PartitionInfo new boot sha256: eWFQdQ+YGYwYCSCRE9F/+6mxb+17Kp/aFCdmO9ZJrBs= size: 50331648
+03-20 01:52:36.063  3138  3138 I update_engine: [0320/015236.063729:INFO:delta_performer.cc(400)] PartitionInfo new system sha256: 0CAwdsv9ZDeTdAPahVs+5zFtDHeFuEdMqbh8pbeo6W4= size: 3145728000
+03-20 01:52:36.063  3138  3138 I update_engine: [0320/015236.063813:INFO:delta_performer.cc(400)] PartitionInfo new vendor sha256: ZkeAZNP7Y7P72ZZSdk9E7KaMCV46sCyIiCRFCoM2774= size: 209715200
+03-20 01:52:36.063  3138  3138 I update_engine: [0320/015236.063849:INFO:delta_performer.cc(400)] PartitionInfo new vbmeta sha256: eVOteES3fHPXadBzj9XOQHhDcGi6iBLOLTxP/A5k7EQ= size: 4096
+03-20 01:52:36.063  3138  3138 I update_engine: [0320/015236.063886:INFO:delta_performer.cc(400)] PartitionInfo new bootloader sha256: hzkun4RuuL7QzFd79S5PnPP3rSS3Qrvkb5d+JXotYzc= size: 6963200
+03-20 01:52:36.063  3138  3138 I update_engine: [0320/015236.063921:INFO:delta_performer.cc(400)] PartitionInfo new m4_os sha256: Q+AJk3Um0N/ZVmfD2Pu5VBoLxJJ/l+UoKL6XhjPVDWU= size: 40960
+03-20 01:52:36.067  3138  3138 I update_engine: [0320/015236.066973:INFO:delta_performer.cc(374)] Opening /dev/block/by-name/dtbo_a partition without O_DSYNC
+03-20 01:52:36.064  3138  3138 W update_engine: type=1400 audit(0.0:8734): avc: denied { ioctl } for path="/dev/block/mmcblk2p1" dev="tmpfs" ino=12464 ioctlcmd=0x125e scontext=u:r:update_engine:s0 tcontext=u:object_r:dtbo_block_device:s0 tclass=blk_file permissive=0
+03-20 01:52:36.064  3138  3138 W update_engine: type=1400 audit(0.0:8735): avc: denied { ioctl } for path="/dev/block/mmcblk2p1" dev="tmpfs" ino=12464 ioctlcmd=0x125d scontext=u:r:update_engine:s0 tcontext=u:object_r:dtbo_block_device:s0 tclass=blk_file permissive=0
+03-20 01:52:36.068  3138  3138 E update_engine: [0320/015236.067963:ERROR:utils.cc(650)] Marking block device /dev/block/by-name/dtbo_a as read_only=0: Permission denied
+03-20 01:52:36.068  3138  3138 I update_engine: [0320/015236.068756:INFO:delta_performer.cc(126)] Caching writes.
+03-20 01:52:36.068  3138  3138 I update_engine: [0320/015236.068870:INFO:delta_performer.cc(386)] Applying 2 operations to partition "dtbo"
+03-20 01:52:36.068  3138  3138 E update_engine: [0320/015236.068958:ERROR:file_descriptor.cc(75)] Error stat-ing fd 16: Permission denied
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069012:INFO:delta_performer.cc(210)] Resuming after 1632/1632 operations (100%), 893347410/893347410 bytes downloaded (100%), overall progress 100%
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069053:INFO:delta_performer.cc(601)] Starting to apply update payload operations
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069088:INFO:multi_range_http_fetcher.cc(112)] terminating transfer
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069144:INFO:multi_range_http_fetcher.cc(172)] Received transfer terminated.
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069190:INFO:multi_range_http_fetcher.cc(124)] TransferEnded w/ code 200
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069223:INFO:multi_range_http_fetcher.cc(158)] Done w/ all transfers
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069561:INFO:delta_performer.cc(1557)] Verifying payload using public key: /etc/update_engine/update-payload-key.pub.pem
+03-20 01:52:36.069  3138  3138 I update_engine: [0320/015236.069665:INFO:payload_verifier.cc(93)] signature blob size = 264
+03-20 01:52:36.070  3138  3138 I update_engine: [0320/015236.070847:INFO:payload_verifier.cc(112)] Verified correct signature 1 out of 1 signatures.
+03-20 01:52:36.070  3138  3138 I update_engine: [0320/015236.070944:INFO:delta_performer.cc(1594)] Payload hash matches value in payload.
+03-20 01:52:36.072  3138  3138 I update_engine: [0320/015236.072098:INFO:download_action.cc(395)] Collections of histograms for UpdateEngine.DownloadAction.
+03-20 01:52:36.072  3138  3138 I update_engine:
+03-20 01:52:36.072  3138  3138 I update_engine: [0320/015236.072342:INFO:action_processor.cc(116)] ActionProcessor: finished DownloadAction with code ErrorCode::kSuccess
+03-20 01:52:36.072  7354  7373 D WMU_UpdateMgr: onStatusUpdate invoked, status=5, progress=0.00
+03-20 01:52:36.072  3138  3138 I update_engine: [0320/015236.072798:INFO:action_processor.cc(143)] ActionProcessor: starting FilesystemVerifierAction
+03-20 01:52:36.072  3138  3138 I update_engine: [0320/015236.072890:INFO:filesystem_verifier_action.cc(108)] Hashing partition 0 (dtbo) on device /dev/block/by-name/dtbo_a
+03-20 01:52:36.073  7354  7373 I WMU_Activity: StatusUpdate - status=FINALIZING/5
+03-20 01:52:36.064  3138  3138 W update_engine: type=1400 audit(0.0:8736): avc: denied { getattr } for path="/dev/block/mmcblk2p1" dev="tmpfs" ino=12464 scontext=u:r:update_engine:s0 tcontext=u:object_r:dtbo_block_device:s0 tclass=blk_file permissive=0
+03-20 01:52:36.068  3138  3138 W update_engine: type=1400 audit(0.0:8737): avc: denied { getattr } for path="/dev/block/mmcblk2p1" dev="tmpfs" ino=12464 scontext=u:r:update_engine:s0 tcontext=u:object_r:dtbo_block_device:s0 tclass=blk_file permissive=0
+03-20 01:52:36.094  3138  3138 I update_engine: [0320/015236.094322:INFO:filesystem_verifier_action.cc(199)] Hash of dtbo: bd+w3piTay4WT9k2k97Y4rSyPov59xN1XH5Zy78yHWU=
+03-20 01:52:36.094  3138  3138 E update_engine: [0320/015236.094536:ERROR:filesystem_verifier_action.cc(205)] New 'dtbo' partition verification failed.
+03-20 01:52:36.098  3138  3138 I update_engine: [0320/015236.098313:INFO:action_processor.cc(116)] ActionProcessor: finished FilesystemVerifierAction with code ErrorCode::kNewRootfsVerificationError
+03-20 01:52:36.100  3138  3138 I update_engine: [0320/015236.100491:INFO:action_processor.cc(121)] ActionProcessor: Aborting processing due to failure.
+03-20 01:52:36.102  3138  3138 I update_engine: [0320/015236.102256:INFO:update_attempter_android.cc(431)] Processing Done.
+03-20 01:52:36.103  3138  3138 I update_engine: [0320/015236.103598:INFO:update_attempter_android.cc(450)] Resetting update progress.
+03-20 01:52:36.104  7354  7373 D WMU_UpdateMgr: onStatusUpdate invoked, status=0, progress=0.00
+03-20 01:52:36.104  7354  7373 I WMU_Activity: StatusUpdate - status=IDLE/0
+03-20 01:52:36.104  7354  7373 D WMU_UpdateMgr: onPayloadApplicationComplete invoked, errorCode=15
+03-20 01:52:36.105  7354  7373 D WMU_UpdateMgr: setUpdaterState invoked newState=2
+03-20 01:52:36.105  7354  7373 I WMU_Activity: UpdaterStateChange state=ERROR/2
+03-20 01:52:36.105  3138  3138 I update_engine: [0320/015236.105343:INFO:metrics_reporter_android.cc(29)] uploading 1 to histogram for metric ota_update_engine_attempt_number
+03-20 01:52:36.105  3138  3138 I update_engine: [0320/015236.105524:INFO:metrics_reporter_android.cc(29)] uploading 0 to histogram for metric ota_update_engine_attempt_payload_type
+03-20 01:52:36.105  3138  3138 I update_engine: [0320/015236.105600:INFO:metrics_reporter_android.cc(29)] uploading 0 to histogram for metric ota_update_engine_attempt_duration_boottime_in_minutes
+03-20 01:52:36.105  3138  3138 I update_engine: [0320/015236.105661:INFO:metrics_reporter_android.cc(29)] uploading 0 to histogram for metric ota_update_engine_attempt_duration_monotonic_in_minutes
+03-20 01:52:36.105  3138  3138 I update_engine: [0320/015236.105717:INFO:metrics_reporter_android.cc(29)] uploading 851 to histogram for metric ota_update_engine_attempt_payload_size_mib
+03-20 01:52:36.105  3138  3138 I update_engine: [0320/015236.105771:INFO:metrics_reporter_android.cc(29)] uploading 8 to histogram for metric ota_update_engine_attempt_result
+03-20 01:52:36.105  3138  3138 I update_engine: [0320/015236.105831:INFO:metrics_reporter_android.cc(29)] uploading 15 to histogram for metric ota_update_engine_attempt_error_code
+03-20 01:52:36.106  3138  3138 I update_engine: [0320/015236.106143:INFO:metrics_reporter_android.cc(29)] uploading 92183 to histogram for metric ota_update_engine_attempt_current_bytes_downloaded_mib
+03-20 01:52:36.106  7354  7373 I WMU_Activity: PayloadApplicationCompleted - errorCode=NEW_ROOTFS_VERIFICATION_ERROR/15 FAILURE
+03-20 01:52:36.115  7354  7354 E WMU_Activity: Update engine error : 0
+03-20 01:52:36.116  7354  7354 D WMU_Activity: Update lock already acquired.
+03-20 01:52:36.120  7354  7354 E WMU_Activity: Update Engine Error : NEW_ROOTFS_VERIFICATION_ERROR
