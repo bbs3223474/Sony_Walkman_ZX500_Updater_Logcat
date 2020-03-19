@@ -19,3 +19,6 @@ Here's my research process:
    If using Linux, the fastboot will recognize but both "fastboot oem unlock" and "fastboot flashing unlock" will not work,
    because this method requires confirmation on the device itself, but the Walkman shows nothing when inputing those commands.
  - The device uses AB partition.
+
+This logcat.txt is a failed attempt for updating. My device already up-to-date and the updater program didn't let me apply the same
+version of the firmware twice.
